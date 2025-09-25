@@ -1,0 +1,14 @@
+ipykernel
+numpy
+pandas
+scikit-learn
+scikit-image
+matplotlib
+google
+seaborn
+scipy
+opencv-python
+pyarrow
+plotly[express]
+nbformat
+jinja2
